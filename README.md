@@ -3,7 +3,7 @@
 ## Intern Details
 
 **Name:** Santhosh L
-**Intern ID:**lsanthosh2410@gamil.com
+**Intern ID:** lsanthosh2410@gmail.com
 **Duration:** 4 Weeks
 
 ## Project Name
